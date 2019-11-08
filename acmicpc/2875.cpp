@@ -1,3 +1,4 @@
+// 대회 or 인턴 (https://www.acmicpc.net/problem/2875)
 #include <iostream>
 using namespace std;
 
